@@ -13,6 +13,6 @@ A simple Python CLI expense tracker that allows users to:
 - JSON
 
 ## How to Run
-
+https://roadmap.sh/projects/expense-tracker
 ```bash
 python main.py
