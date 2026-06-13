@@ -16,4 +16,12 @@ A simple Python CLI expense tracker that allows users to:
 
 ```bash
 python main.py
-Link: https://roadmap.sh/projects/expense-tracker
+```
+## Author
+
+
+**John Aldrin Anasis**
+
+* GitHub: https://github.com/nexus1201
+* Portfolio: https://nexus1201.github.io/
+* Project URL: https://roadmap.sh/projects/expense-tracker
